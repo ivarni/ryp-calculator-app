@@ -42,3 +42,6 @@ android/keystores/debug.keystore
 
 # Editor
 ryp-calculator-app.sublime-workspace
+
+# Keystore
+android/app/my-release-key.keystore
