@@ -9,7 +9,7 @@ class App extends Component {
         return (
             <View>
                 {this.props.exercises.map(e =>
-                    <Text>{e.name.toUpperCase()}</Text>
+                    <Text>{e.name}</Text>
                 )}
             </View>
         );

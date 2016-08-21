@@ -1,8 +1,0 @@
-{
-    "presets": ["react-native"],
-    "plugins": [
-        ["babel-root-import", {
-            "rootPathSuffix": "../../../app"
-        }]
-    ],
-}

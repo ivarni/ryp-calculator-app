@@ -12,9 +12,9 @@ import {
     View
 } from 'react-native';
 
-import Root from '~/native/containers/Root';
+import Root from './app/native/containers/Root';
 
-import configureStore from '~/store/configureStore';
+import configureStore from './app/store/configureStore';
 
 const store = configureStore();
 
