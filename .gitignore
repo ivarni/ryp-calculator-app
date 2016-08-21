@@ -39,3 +39,6 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+
+# Editor
+ryp-calculator-app.sublime-workspace
